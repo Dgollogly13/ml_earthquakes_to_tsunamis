@@ -1,4 +1,4 @@
-# Utilizing Machine Learning to Predict Tsunamis from Earthquake data
+# Predicting Tsunamis with Machine Learning
 
 The goal of this challenge ....
 
