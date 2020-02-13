@@ -22,9 +22,9 @@ I am running this code out of my anaconda environment ....
 ### Authors
 
 * **Dallas Gollogly** - [dgollogly13](https://github.com/dgollogly13)
-*
-*
-*
+* **David Grasman** - [dvgrass](https://github.com/dvgrass)
+* **Michael Debaker** - [mldebaker](https://github.com/mldebaker)
+* **Sean Leftwich** - 
 
 ### Acknowledgments
 
