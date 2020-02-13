@@ -4,13 +4,17 @@ The goal of this challenge ....
 
 ## Getting Started 
 
-I am running this code out of my anaconda environment .... 
+I am running this code out of .... 
 
 ### Analysis and Coding 
 
 ....
 
-### Challenges or Additional Opportunities
+### Challenges
+
+....
+
+### Additional Opportunities
 
 ....
 
@@ -22,11 +26,12 @@ I am running this code out of my anaconda environment ....
 ### Authors
 
 * **Dallas Gollogly** - [dgollogly13](https://github.com/dgollogly13)
-*
-*
-*
+* **David Grasman** - [dvgrass](https://github.com/dvgrass)
+* **Michael Debaker** - [mldebaker](https://github.com/mldebaker)
+* **Sean Leftwich** - [absenz](https://github.com/absenz)
 
 ### Acknowledgments
 
 * Denver University Data Analytics Bootcamp 
 * United States Geological Survey
+* National Centers for Environmental Information 
