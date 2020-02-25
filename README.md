@@ -39,5 +39,3 @@ I am running this code out of ....
 ### Acknowledgments
 
 * Denver University Data Analytics Bootcamp 
-* United States Geological Survey
-* National Centers for Environmental Information 
