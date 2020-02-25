@@ -1,4 +1,4 @@
-# Title
+# Classifying Art Styles with Machine Learning
 
 The goal of this challenge ....
 
@@ -21,7 +21,13 @@ I am running this code out of ....
 ### Built With
 
 * Python
-* Pandas 
+* Tensorflow
+* Keras
+* Numpy
+* OS 
+* Matplotlib
+* HTML/CSS
+* ImageAI
 
 ### Authors
 
