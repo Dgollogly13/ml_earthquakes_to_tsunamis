@@ -1,6 +1,6 @@
 # Classifying Art Styles with Machine Learning
 
-The goal of this challenge ....
+The goal of this challenge was to 
 
 ## Getting Started 
 
