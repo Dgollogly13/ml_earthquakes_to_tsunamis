@@ -2,10 +2,6 @@
 
 The goal of this challenge ....
 
-## Project Website
-
-https://mldebaker.github.io/MachineLearningProject/
-
 ## Getting Started 
 
 We are running this code out of .... 
@@ -32,6 +28,10 @@ We are running this code out of ....
 * Matplotlib
 * HTML/CSS
 * ImageAI
+
+### Project Website
+
+https://mldebaker.github.io/MachineLearningProject/
 
 ### Authors
 
