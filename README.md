@@ -2,6 +2,10 @@
 
 The goal of this challenge was to build three machine learning models that would classify an art image into ..... distinct categories. 
 
+## Getting Started 
+
+We are running this code ....
+
 ### Analysis and Coding 
 
 ....
