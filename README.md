@@ -1,10 +1,10 @@
 # Classifying Art Styles with Machine Learning
 
-The goal of this challenge was to 
+The goal of this challenge was to build three machine learning models that would classify an art image into ..... distinct categories. 
 
 ## Getting Started 
 
-We are running this code out of .... 
+We are running this code with the open-source platform Jupyter Notebook. In order to run this code on your machine you will need an equivalent application and the proper dependencies installed.   
 
 ### Analysis and Coding 
 
