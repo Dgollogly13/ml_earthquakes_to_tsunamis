@@ -1,6 +1,6 @@
 # Classifying Art Styles with Machine Learning
 
-Our team sought to analyze the effectiveness of three machine learning libraries for image classification. Our goal was to compare the differences in classification accuracy among the three models we created versus a pre-trained model called “Image Net”. The images used in the classification were art datasets from five distinct styles, or genres, of artwork.  
+Our team sought to analyze the effectiveness of three machine learning libraries for image classification. Our goal was to compare the differences in classification accuracy among the three models we created versus a pre-trained model called “Mobile Net”. The images used in the classification were art datasets from five distinct styles, or genres, of artwork.  
 
 ## Getting Started 
 
