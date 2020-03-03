@@ -1,22 +1,10 @@
 # Classifying Art Styles with Machine Learning
 
-The goal of this challenge was to build three machine learning models that would classify an art image into ..... distinct categories. 
+Our team sought to analyze the effectiveness of three machine learning libraries for image classification. Our goal was to compare the differences in classification accuracy among the three models we created versus a pre-trained model called “Mobile Net”. The images used in the classification were art datasets from five distinct styles, or genres, of artwork.  
 
 ## Getting Started 
 
-We are running this code ....
-
-### Analysis and Coding 
-
-....
-
-### Challenges
-
-....
-
-### Additional Opportunities
-
-....
+We are running this code with Jupyter Notebook and the proper dependencies that are listed below. 
 
 ### Built With
 
@@ -28,8 +16,11 @@ We are running this code ....
 * Matplotlib
 * HTML/CSS
 * ImageAI
+* Seaborn
 
 ### Project Website
+
+Please refer to our website for our analysis, challenges, and results for the various machine learrning models:
 
 https://mldebaker.github.io/MachineLearningProject/
 
